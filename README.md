@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer architecture,web develoment and machine learning
 - 🌱 I’m currently learning react framework
 - 💞️ I’m looking to collaborate on web apps
-- 📫 How to reach me contact @ twitter:
+- 📫 How to reach me contact @ linkedIn:https://www.linkedin.com/in/sanjeetraj40/
 - ⚡ Fun fact: ...Coding improves mental health
 
 <!---
